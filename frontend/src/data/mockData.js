@@ -5,8 +5,8 @@ export const personalInfo = {
   name: "Prathyuush Raj",
   role: "AI Chatbot Developer | Website & Document (RAG) Chatbots",
   email: "work.prathyuushraj@gmail.com",
-  upworkId: "Prathyuush R.",
-  upworkUrl: "https://www.upwork.com/freelancers/prathyuushr",
+  upworkId: "Prathyuush Raj",
+  upworkUrl: "https://www.upwork.com/freelancers/~018dd6e094ec19b5a8?mp_source=share",
   intro: "I build practical, easy-to-use AI chatbots for websites and documents. Focused on clean, reliable solutions that solve real business problems."
 };
 
