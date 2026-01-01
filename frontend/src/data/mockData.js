@@ -53,7 +53,7 @@ export const projects = [
     title: "Resume Screening Assistant",
     description: "AI tool that analyzes resumes against job descriptions. Provides match scores and candidate summaries for HR teams.",
     techStack: ["Python", "OpenAI API", "FastAPI", "PDF parsing"],
-    liveDemo: "https://example.com/demo3",
+    liveDemo: "https://demoresume-pi.vercel.app/",
     github: "https://github.com/yourusername/project3"
   },
   {
