@@ -45,7 +45,7 @@ export const projects = [
     title: "Document Q&A System",
     description: "RAG-based chatbot that answers questions from PDF documents. Supports multiple file uploads and semantic search.",
     techStack: ["Python", "LangChain", "FAISS", "OpenAI API"],
-    liveDemo: "https://example.com/demo2",
+    liveDemo: "https://mind-docu-spark.lovable.app",
     github: "https://github.com/yourusername/project2"
   },
   {
